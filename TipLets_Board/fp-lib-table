@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "DRV2605")(type "KiCad")(uri "${KIPRJMOD}/DRV2605.pretty")(options "")(descr ""))
+  (lib (name "Vybronics")(type "KiCad")(uri "${KIPRJMOD}/Vybronics.pretty")(options "")(descr ""))
+  (lib (name "Keystone")(type "KiCad")(uri "${KIPRJMOD}/Keystone.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Vybronics")(type "KiCad")(uri "${KIPRJMOD}/Vybronics.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV2605")(type "KiCad")(uri "${KIPRJMOD}/DRV2605.kicad_sym")(options "")(descr ""))
+  (lib (name "Battery_Clip")(type "KiCad")(uri "${KIPRJMOD}/Battery_Clip.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,19 @@
+TipLetsTop
+  <Origin> - <Target>
+    X: -5.935 [mm]
+    Y: -26.457 [mm]
+
+TipLetsBot
+  <Origin> - <Target>
+    X: -7.721 [mm]
+    Y: -36.206 [mm]
+
+Diff(Top, Bot)
+  X: 1.786
+  Y: 9.749
+
+Goal: make the Targets align.
+
+Method: Start @ O(Bot). Move by Diff(Top, Bot). Place ONTO.
+
+
